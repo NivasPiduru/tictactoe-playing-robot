@@ -47,7 +47,7 @@ Robot Control → Pick-and-place with suction gripper
 
 ### Prerequisites
 ```bash
-pip install opencv-python numpy dobot-api
+pip install opencv-python
 ```
 
 ### Run
