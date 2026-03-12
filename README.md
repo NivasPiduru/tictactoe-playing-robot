@@ -73,9 +73,4 @@ Follow on-screen prompts to:
 **Course**: RAS 545 - Robotics and Autonomous Systems (Midterm 1)  
 **Institution**: Arizona State University  
 **Date**: October 2025
-
-## 👨‍💻 Author
-
-**Nivas Piduru**  
-MS Robotics, Arizona State University  
-📧 nivaspiduru@gmail.com | 🔗 [Portfolio](https://nivaspiduru.github.io)
+🔗 [Portfolio](https://nivaspiduru.github.io)
